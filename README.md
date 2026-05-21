@@ -9,4 +9,4 @@ Handwritten Python notes for beginners and college students.
 - Functions
 - OOP
 - File Handling
-- Machine Learning Basics.
+- Machine Learning Basics
