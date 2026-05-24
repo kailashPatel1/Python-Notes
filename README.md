@@ -1,6 +1,6 @@
 # Python Notes
 
-Handwritten Python notes for beginners and college students.
+Handwritten Python notes for beginners and college students
 
 ## Topics
 - Python Basics
